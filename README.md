@@ -1,44 +1,43 @@
-Hi, I'm [Vicky Yadav] 👋
+Hi, I'm Vicky Yadav 👋
 
 Data Analyst | SQL | Python | Power BI | Excel
 
-I'm an aspiring Data Analyst interested in transforming raw data into meaningful insights and actionable business decisions.
+I'm an aspiring Data Analyst passionate about transforming data into meaningful insights and building interactive dashboards that support data-driven decision-making.
 
 🛠️ Skills
 
 - SQL — Data querying, joins, aggregations, subqueries
-- Python — Pandas, NumPy, Matplotlib
-- Power BI — Data visualization, dashboards, DAX
-- Excel — Data cleaning, analysis, PivotTables
-- Data Analysis — Data cleaning, EDA, visualization and reporting
+- Python — Pandas, NumPy, data analysis and visualization
+- Power BI — Interactive dashboards, data visualization and DAX
+- Excel — Data cleaning, analysis, PivotTables and reporting
+- Data Analysis — Data cleaning, exploratory data analysis and visualization
 
 📊 Featured Projects
 
-1. Sales Data Analysis
+☕ Starbucks Dashboard
 
-Analyzed sales data to identify revenue trends, top-performing products and regional performance.
+An interactive Power BI dashboard designed to analyze Starbucks sales and business performance through key metrics and visualizations.
 
-Tools: Python, Pandas, SQL, Power BI
+Tools: Power BI, Excel, Data Analysis
 
-2. Customer Analysis
+👥 HR Analysis Dashboard
 
-Performed customer segmentation and analyzed customer purchasing patterns.
+An interactive HR analytics dashboard focused on analyzing employee data and presenting key HR insights through visualizations and KPIs.
 
-Tools: SQL, Python, Power BI
-
-3. Business Dashboard
-
-Created an interactive dashboard to track important business KPIs and performance trends.
-
-Tools: Power BI, Excel
+Tools: Power BI, Excel, Data Analysis
 
 📚 Currently Learning
 
 - Advanced SQL
-- Power BI & DAX
 - Advanced Excel
 - Python for Data Analysis
+- Power BI
+- DAX
 
-🔗 Connect With Me
+🎯 Career Goal
 
-- LinkedIn: [ https://www.linkedin.com/in/vicky-yadav-977500431 ]
+Looking to build a career as a Data Analyst and use data, analytical thinking, and visualization to solve real-world business problems.
+
+🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vicky-yadav-977500431
