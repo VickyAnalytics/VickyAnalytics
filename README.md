@@ -1,32 +1,46 @@
-Hi, I'm Vicky Yadav 👋
+# Hi, I'm Vicky Yadav 👋
 
-Data Analyst | SQL | Python | Power BI | Excel
+### Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
-I'm an aspiring Data Analyst passionate about transforming data into meaningful insights and building interactive dashboards that support data-driven decision-making.
+I focus on analyzing data, developing interactive dashboards, and transforming raw datasets into clear, actionable insights.
 
-🛠️ Skills
+My current focus is on building practical data analysis projects using SQL, Power BI, Excel, and Python.
 
-- SQL — Data querying, joins, aggregations, subqueries
-- Python — Pandas, NumPy, data analysis and visualization
-- Power BI — Interactive dashboards, data visualization and DAX
-- Excel — Data cleaning, analysis, PivotTables and reporting
-- Data Analysis — Data cleaning, exploratory data analysis and visualization
+---
 
-📊 Featured Projects
+## 🛠️ Technical Skills
 
-☕ Starbucks Dashboard
+- *SQL* — Data Querying, Joins, Aggregations, Subqueries
+- *Power BI* — Dashboard Development, Data Visualization, DAX
+- *Excel* — Data Cleaning, PivotTables, Analysis, Reporting
+- *Python* — Pandas, NumPy, Data Analysis & Visualization
+- *Data Analysis* — Data Cleaning, EDA, KPI Analysis & Visualization
 
-An interactive Power BI dashboard designed to analyze Starbucks sales and business performance through key metrics and visualizations.
+---
 
-Tools: Power BI, Excel, Data Analysis
+## 📊 Featured Projects
 
-👥 HR Analysis Dashboard
+### ☕ Starbucks Sales Dashboard
 
-An interactive HR analytics dashboard focused on analyzing employee data and presenting key HR insights through visualizations and KPIs.
+Interactive Power BI dashboard developed to analyze sales performance, key metrics, and business insights.
 
-Tools: Power BI, Excel, Data Analysis
+*Tools:* Power BI, Excel, Data Analysis
 
-📚 Currently Learning
+### 👥 HR Analysis Dashboard
+
+Interactive dashboard focused on analyzing employee data, HR metrics, and key performance indicators.
+
+*Tools:* Power BI, Excel, Data Analysis
+
+### 📉 Customer Churn Analysis
+
+Data analysis project focused on understanding customer churn patterns and identifying key factors affecting customer retention.
+
+*Tools:* SQL, Python, Power BI
+
+---
+
+## 📚 Currently Learning
 
 - Advanced SQL
 - Advanced Excel
@@ -34,10 +48,14 @@ Tools: Power BI, Excel, Data Analysis
 - Power BI
 - DAX
 
-🎯 Career Goal
+---
 
-Looking to build a career as a Data Analyst and use data, analytical thinking, and visualization to solve real-world business problems.
+## 🎯 Career Objective
 
-🤝 Connect With Me
+To build a career in Data Analytics by applying SQL, Excel, Power BI, and Python to analyze data and solve real-world business problems.
 
-- LinkedIn: https://www.linkedin.com/in/vicky-yadav-977500431
+---
+
+## 🤝 Connect With Me
+
+- *LinkedIn:* [Vicky Yadav](https://www.linkedin.com/in/vicky-yadav-977500431/)
